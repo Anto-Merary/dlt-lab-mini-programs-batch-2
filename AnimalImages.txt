@@ -1,0 +1,14 @@
+Start.
+Import required libraries.
+Load the animal image dataset.
+Resize all images to the same size.
+Normalize the images.
+Split the dataset into training and testing data.
+Create a CNN model.
+Apply Convolution and Max Pooling layers.
+Flatten the features.
+Add Dense layer and Softmax output layer.
+Train the CNN model.
+Test the model and calculate accuracy.
+Predict the animal class.
+Stop.

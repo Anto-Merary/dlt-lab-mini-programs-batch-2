@@ -1,0 +1,11 @@
+Import the required libraries.
+Load the Breast Cancer dataset.
+Split the data into training and testing data.
+Normalize the input data.
+Initialize weights and bias.
+Calculate the weighted sum.
+Apply the Sigmoid activation function.
+Calculate the error.
+Update weights and bias using gradient descent.
+Predict the test data and calculate accuracy.
+Easy Python Code

@@ -1,0 +1,14 @@
+Start.
+Import TensorFlow and required libraries.
+Load LFW face dataset.
+Preprocess and normalize images.
+Split data into training and testing.
+Build CNN.
+Add convolution and pooling layers.
+Add dense output layer.
+Compile the model.
+Train the model.
+Test the model.
+Calculate accuracy.
+Predict a face.
+Stop.

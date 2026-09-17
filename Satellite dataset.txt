@@ -1,0 +1,13 @@
+Step 1: Start
+Step 2: Import required libraries.
+Step 3: Load the Stars/Satellite dataset.
+Step 4: Separate input features X and target y.
+Step 5: Normalize the data using mean and standard deviation.
+Step 6: Split the data into training and testing sets.
+Step 7: Initialize weights and biases.
+Step 8: Perform forward propagation using tanh and sigmoid.
+Step 9: Calculate the error and perform backpropagation.
+Step 10: Update weights and biases.
+Step 11: Repeat training for several epochs.
+Step 12: Predict the test data and calculate accuracy.
+Step 13: Stop.

@@ -1,0 +1,12 @@
+Start.
+Load the CIFAR-10 dataset.
+Resize the images.
+Normalize the images.
+Load a pretrained CNN model.
+Freeze the pretrained layers.
+Add new Dense layers for classification.
+Compile the model.
+Train the model.
+Test the model.
+Calculate accuracy.
+Stop.

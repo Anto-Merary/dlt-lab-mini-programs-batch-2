@@ -1,0 +1,12 @@
+Start.
+Load the post-office customer dataset.
+Calculate mean and standard deviation.
+Normalize the input data.
+Split the data into training and testing sets.
+Initialize weights and bias.
+Apply sigmoid function.
+Calculate the error.
+Update weights and bias using gradient descent.
+Predict the output for test data.
+Calculate accuracy.
+Stop.

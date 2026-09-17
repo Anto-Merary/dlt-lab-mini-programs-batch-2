@@ -1,0 +1,8 @@
+Load Breast Cancer dataset.
+Normalize the dataset.
+Initialize weights and biases.
+Forward propagate using tanh and sigmoid.
+Calculate cross-entropy loss.
+Backpropagate the error.
+Update weights and biases.
+Calculate accuracy.

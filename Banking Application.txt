@@ -1,0 +1,12 @@
+Start.
+Import required libraries.
+Load the dataset.
+Separate input X and output y.
+Normalize the data using mean and standard deviation.
+Split data into training and testing sets.
+Initialize weights and bias.
+Calculate sigmoid value.
+Train the model using gradient descent.
+Predict the output.
+Calculate accuracy.
+Stop.
